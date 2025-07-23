@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nathanschmid08/restaurant/issues"
   },
-  "homepage": "https://github.com/nathanschmid08/restaurant#readme"
+  "homepage": "https://github.com/nathanschmid08/restaurant#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
