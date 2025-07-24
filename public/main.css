@@ -187,41 +187,11 @@ body {
     transform: translateY(0);
 }
 
-/* Divider - subtle and professional */
-.divider {
-    position: relative;
-    text-align: center;
-    margin: 2rem 0;
-    display: none;
-}
-
-.divider::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    height: 1px;
-    background: #e5e7eb;
-}
-
-.divider span {
-    background: #f8fafc;
-    padding: 0 1rem;
-    color: #6b7280;
-    font-size: 0.875rem;
-    font-weight: 500;
-}
-
 /* Responsive design */
 @media (max-width: 768px) {
     .sections-wrapper {
         grid-template-columns: 1fr;
         gap: 1.5rem;
-    }
-    
-    .divider {
-        display: block;
     }
     
     .main-content {
