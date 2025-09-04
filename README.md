@@ -1,3 +1,5 @@
+# 404 Dogs
+
 | Code | Name                           | Description |
 |------|--------------------------------|-------------|
 | **1xx Informational** | | |
